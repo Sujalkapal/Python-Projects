@@ -12,17 +12,11 @@ This repository contains my Python practice programs and projects that I build w
 - Classroom Management
 - And more projects will be added as I continue learning.
 
-## Concepts I'm Learning
+## About
 
-- Variables and Data Types
-- If-Else Statements
-- Loops
-- Functions
-- Lists and Dictionaries
-- Strings
-- File Handling
-- Object-Oriented Programming
-- Exception Handling
+I am currently learning Python and building different projects to improve my programming skills, problem-solving abilities, and understanding of programming concepts.
+
+This repository contains the projects and practice programs I create while learning and experimenting with Python.
 
 ## Technologies
 
