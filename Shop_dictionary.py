@@ -34,10 +34,10 @@ print("------------------------------")
 print(f"Your total is:{Total}")      
         
 
-# for food in cart:
-#     Total += menu.get(food)
+for food in cart:
+    Total += menu.get(food)
 
-# print()
-# print("------------------------------") 
-# print(f"Your total is: {Total}")             
+print()
+print("------------------------------") 
+print(f"Your total is: {Total}")             
 
